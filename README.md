@@ -13,7 +13,7 @@
 ## My GitHub Stats & Languages
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanytangcodes&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanytangcodes&layout=compact&theme=dark)
  
 
 <!---
