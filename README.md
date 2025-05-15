@@ -11,10 +11,9 @@
 ![My GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ethanytangcodes&theme=dark)
 
 ## My GitHub Stats & Languages
-![YourUserName's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanytangcodes&show_icons=true&theme=dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanytangcodes&show_icons=true&theme=dark)
 
-## My Coding Score (WakaTime)
-[![wakatime](https://wakatime.com/share/@ethanytangcodes/coding-activity.svg)](https://wakatime.com/@ethanytangcodes)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=dark)
  
 
 <!---
