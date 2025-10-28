@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanytangcodes&label=Profile%20views&color=0e75b6&style=flat" alt="ethanytangcodes" /> </p>
 
-<p align="left"> <img src="[[[https://github-profile-trophy.vercel.app/?username=ethanytangcodes](https://github-trophies.vercel.app/?username=ethanytangcodes)](https://github-trophies.vercel.app/?username=ethanytangcodes)](https://github-trophies.vercel.app/?username=ethanytangcodes)" alt="ethanytangcodes" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ethanytangcodes" </p>
 
 - 🔭 I’m currently working on [my website](ethanytangcodes.github.io)
 
