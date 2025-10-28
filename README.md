@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanytangcodes&label=Profile%20views&color=0e75b6&style=flat" alt="ethanytangcodes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ethanytangcodes" alt="ethanytangcodes" /></a> </p>
+<p align="left"> <img src="[[https://github-profile-trophy.vercel.app/?username=ethanytangcodes](https://github-trophies.vercel.app/?username=ethanytangcodes)](https://github-trophies.vercel.app/?username=ethanytangcodes)" alt="ethanytangcodes" /></a> </p>
 
 - 🔭 I’m currently working on [my website](ethanytangcodes.github.io)
-
-- 🌱 I’m currently learning **stuff in middle school**
 
 - 📫 How to reach me **ethantytang11@gmail.com**
 
